@@ -50,6 +50,3 @@ If you would like to contribute to this project, please follow these steps:
 3. Make your changes and commit them (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-
-## Contact
-If you have any questions or suggestions, feel free to contact us at [stephenrainevilleta16@gmail.com].
