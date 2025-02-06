@@ -1,6 +1,6 @@
 # FarmFlow
 ## Description
-FarmFlow is my project from an Object-Oriented Programming (OOP) class in college. We were assigned to implement the four basic concepts of OOP: encapsulation, inheritance, polymorphism, and abstraction. FarmFlow is a Java system for the digital market of farm crops.
+FarmFlow is my project from an Object-Oriented Programming (OOP) class in college. We were assigned to implement the four basic concepts of OOP: encapsulation, inheritance, polymorphism, and abstraction. FarmFlow is a Java POS system for the digital market of farm crops.
 
 ## Features
 There are three JFrames in the application:
